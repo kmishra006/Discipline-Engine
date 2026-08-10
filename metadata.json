@@ -1,0 +1,6 @@
+{
+  "name": "Discipline Engine",
+  "description": "Mobile-first personal student habit, productivity, fitness, and skill tracking command center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
